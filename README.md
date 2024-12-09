@@ -73,9 +73,11 @@ endmodule
 Developed by:Meenakshi.R RegisterNumber:24003710
 
 **RTL Schematic**
+
 ![exp 3 4](https://github.com/user-attachments/assets/eef9d041-2a01-49b9-b11e-1cd91f7f367f)
 
 **Output/TIMING Waveform**
+
 ![exp 3 3](https://github.com/user-attachments/assets/d70a360e-93c8-4abb-a2ac-4371c212e901)
 
 **Result:**
